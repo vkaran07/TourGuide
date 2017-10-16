@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context="com.example.karan.tourguide.MainActivity">
+
+    <TextView
+        android:id="@+id/park"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Parks"
+        android:background="@drawable/parks"
+        android:textSize="50dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/hotel"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Hotels"
+        android:background="@drawable/hotels"
+        android:textSize="50dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/attraction"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Attractions"
+        android:background="@drawable/attraction"
+        android:textSize="50dp"
+        android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/mall"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="Malls"
+        android:background="@drawable/mall"
+        android:textSize="50dp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="jwmarriotthotel">jwmarriott Hotel</string>
+    <string name="HyattRegency">Hyatt Regency</string>
+    <string name="TajHotel">Taj Hotel</string>
+    <string name="GoldenTulipHotel">Golden Tulip Hotel</string>
+    <string name="TheLalit">The Lalit Hotel</string>
+    <string name="RoseGarden">Rose Garden</string>
+    <string name="BougainvilleaPark">Bougainvillea Park</string>
+    <string name="ShantikunjPark">Shantikunj Park"</string>
+    <string name="RajendraPark">Rajendra Park</string>
+    <string name="TopiaryPark">Topiary Park</string>
+    <string name="CentraMall">Centra Mall</string>
+    <string name="ElanteMall">Elante Mall</string>
+    <string name="TDIMall">TDI Mall</string>
+    <string name="CityEmporiumMall">City Emporium Mall</string>
+    <string name="Sector17">Sector 17</string>
+
+</resources>
